@@ -13,7 +13,7 @@ Check out my [portfolio](#) !
 <img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
 <img align="left" alt="Redux" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" />
-<img align="left" alt="Nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Nextjs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
 <img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />
@@ -21,5 +21,4 @@ Check out my [portfolio](#) !
 
 <br/>
 
-[![LinkedIn](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
-)](https://www.linkedin.com/in/kariimellsayed)
+[![LinkedIn]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg")](https://www.linkedin.com/in/kariimellsayed)
