@@ -19,4 +19,4 @@ Check out my [portfolio](#) !
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 <br/>
 
-![Footer Image](https://capsule-render.vercel.app/api?type=waving&color=0:2AF598,100:08AEEA&height=150&section=footer)
+![Footer Image](https://capsule-render.vercel.app/api?type=waving&color=0:2AF431,100:08AEEA&height=150&section=footer)
