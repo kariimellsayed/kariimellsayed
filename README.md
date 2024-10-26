@@ -1,24 +1,22 @@
 # Hi 👋! I'm Kariim, and I'm a Front-End Developer
 
-Check out my [portfolio](#) !
-
-### Kariim's GitHub Stats
-![Kariim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kariimellsayed&show_icons=true&theme=dracula)
+Check out my [portfolio](#) ! 
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kariimellsayed&layout=compact&theme=dracula)
 
 ## Languages and Tools:
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-<img align="left" alt="Redux" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" />
-<img align="left" alt="Nextjs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />
-
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 <br/>
 
-[![LinkedIn]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg")](https://www.linkedin.com/in/kariimellsayed)
+Footer Image](https://capsule-render.vercel.app/api?type=waving&color=0:2AF798,100:08AEEA&height=150&section=footer)
