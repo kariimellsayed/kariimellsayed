@@ -1,9 +1,5 @@
 Welcome in my profile 👋! kariimellsayed, and I'm a Front-End Developer
 
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kariimellsayed&layout=compact&theme=dracula)
-
 ## Languages and Tools:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
