@@ -1,6 +1,5 @@
 Welcome in my profile 👋! kariimellsayed, and I'm a Front-End Developer
 
-Check out my [portfolio](#) ! 
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kariimellsayed&layout=compact&theme=dracula)
